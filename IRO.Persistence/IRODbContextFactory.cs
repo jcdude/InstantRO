@@ -11,7 +11,7 @@ namespace IRO.Persistence
         public IRODbContext CreateDbContext(string[] args)
         {
             var optionsBuilder = new DbContextOptionsBuilder<IRODbContext>();
-            optionsBuilder.UseSqlServer("Data Source=blog.db");
+            optionsBuilder.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=InstantRO;Trusted_Connection=True;Application Name=InstantRO;");
 
             return new IRODbContext(optionsBuilder.Options);
         }
