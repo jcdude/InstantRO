@@ -1,0 +1,9 @@
+C:\Users\Jed\source\repos\InstantRO\IRO.Domain\bin\Debug\netcoreapp3.1\IRO.Domain.deps.json
+C:\Users\Jed\source\repos\InstantRO\IRO.Domain\bin\Debug\netcoreapp3.1\IRO.Domain.dll
+C:\Users\Jed\source\repos\InstantRO\IRO.Domain\bin\Debug\netcoreapp3.1\IRO.Domain.pdb
+C:\Users\Jed\source\repos\InstantRO\IRO.Domain\obj\Debug\netcoreapp3.1\IRO.Domain.csprojAssemblyReference.cache
+C:\Users\Jed\source\repos\InstantRO\IRO.Domain\obj\Debug\netcoreapp3.1\IRO.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jed\source\repos\InstantRO\IRO.Domain\obj\Debug\netcoreapp3.1\IRO.Domain.AssemblyInfoInputs.cache
+C:\Users\Jed\source\repos\InstantRO\IRO.Domain\obj\Debug\netcoreapp3.1\IRO.Domain.AssemblyInfo.cs
+C:\Users\Jed\source\repos\InstantRO\IRO.Domain\obj\Debug\netcoreapp3.1\IRO.Domain.dll
+C:\Users\Jed\source\repos\InstantRO\IRO.Domain\obj\Debug\netcoreapp3.1\IRO.Domain.pdb

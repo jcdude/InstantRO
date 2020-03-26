@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5KmHKGHMuaJWNO5hcIaVISCNQSAe7hmUWj9FrIp62WMQyNXmB57Jo27mHPFVKurvC+6Q5pZ1hX1RNahdXpvXGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jed\\source\\repos\\InstantRO\\IRO.WebAPi\\IRO.WebAPi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jed\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
