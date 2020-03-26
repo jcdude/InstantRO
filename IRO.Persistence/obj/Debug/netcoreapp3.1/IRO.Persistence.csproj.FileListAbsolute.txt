@@ -1,8 +1,9 @@
 C:\Users\Jed\source\repos\InstantRO\IRO.Persistence\bin\Debug\netcoreapp3.1\IRO.Persistence.deps.json
 C:\Users\Jed\source\repos\InstantRO\IRO.Persistence\bin\Debug\netcoreapp3.1\IRO.Persistence.dll
 C:\Users\Jed\source\repos\InstantRO\IRO.Persistence\bin\Debug\netcoreapp3.1\IRO.Persistence.pdb
-C:\Users\Jed\source\repos\InstantRO\IRO.Persistence\obj\Debug\netcoreapp3.1\IRO.Persistence.csproj.CoreCompileInputs.cache
 C:\Users\Jed\source\repos\InstantRO\IRO.Persistence\obj\Debug\netcoreapp3.1\IRO.Persistence.AssemblyInfoInputs.cache
 C:\Users\Jed\source\repos\InstantRO\IRO.Persistence\obj\Debug\netcoreapp3.1\IRO.Persistence.AssemblyInfo.cs
 C:\Users\Jed\source\repos\InstantRO\IRO.Persistence\obj\Debug\netcoreapp3.1\IRO.Persistence.dll
 C:\Users\Jed\source\repos\InstantRO\IRO.Persistence\obj\Debug\netcoreapp3.1\IRO.Persistence.pdb
+C:\Users\Jed\source\repos\InstantRO\IRO.Persistence\obj\Debug\netcoreapp3.1\IRO.Persistence.csprojAssemblyReference.cache
+C:\Users\Jed\source\repos\InstantRO\IRO.Persistence\obj\Debug\netcoreapp3.1\IRO.Persistence.csproj.CoreCompileInputs.cache
