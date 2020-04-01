@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Jed\\.nuget\\packages\\": {},
+    "C:\\Users\\Jed Laptop\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jed\\source\\repos\\InstantRO\\IRO.Infrastucture\\IRO.Infrastucture.csproj",
+      "projectUniqueName": "C:\\Users\\Jed Laptop\\Source\\Repos\\jcdude\\InstantRO\\IRO.Infrastucture\\IRO.Infrastucture.csproj",
       "projectName": "IRO.Infrastucture",
-      "projectPath": "C:\\Users\\Jed\\source\\repos\\InstantRO\\IRO.Infrastucture\\IRO.Infrastucture.csproj",
-      "packagesPath": "C:\\Users\\Jed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jed\\source\\repos\\InstantRO\\IRO.Infrastucture\\obj\\",
+      "projectPath": "C:\\Users\\Jed Laptop\\Source\\Repos\\jcdude\\InstantRO\\IRO.Infrastucture\\IRO.Infrastucture.csproj",
+      "packagesPath": "C:\\Users\\Jed Laptop\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jed Laptop\\Source\\Repos\\jcdude\\InstantRO\\IRO.Infrastucture\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Jed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jed Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

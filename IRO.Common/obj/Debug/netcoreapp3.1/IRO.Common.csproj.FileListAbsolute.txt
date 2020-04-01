@@ -7,3 +7,12 @@ C:\Users\Jed\source\repos\InstantRO\IRO.Common\obj\Debug\netcoreapp3.1\IRO.Commo
 C:\Users\Jed\source\repos\InstantRO\IRO.Common\obj\Debug\netcoreapp3.1\IRO.Common.AssemblyInfo.cs
 C:\Users\Jed\source\repos\InstantRO\IRO.Common\obj\Debug\netcoreapp3.1\IRO.Common.dll
 C:\Users\Jed\source\repos\InstantRO\IRO.Common\obj\Debug\netcoreapp3.1\IRO.Common.pdb
+C:\Users\Jed Laptop\Source\Repos\jcdude\InstantRO\IRO.Common\bin\Debug\netcoreapp3.1\IRO.Common.deps.json
+C:\Users\Jed Laptop\Source\Repos\jcdude\InstantRO\IRO.Common\bin\Debug\netcoreapp3.1\IRO.Common.dll
+C:\Users\Jed Laptop\Source\Repos\jcdude\InstantRO\IRO.Common\bin\Debug\netcoreapp3.1\IRO.Common.pdb
+C:\Users\Jed Laptop\Source\Repos\jcdude\InstantRO\IRO.Common\obj\Debug\netcoreapp3.1\IRO.Common.csprojAssemblyReference.cache
+C:\Users\Jed Laptop\Source\Repos\jcdude\InstantRO\IRO.Common\obj\Debug\netcoreapp3.1\IRO.Common.csproj.CoreCompileInputs.cache
+C:\Users\Jed Laptop\Source\Repos\jcdude\InstantRO\IRO.Common\obj\Debug\netcoreapp3.1\IRO.Common.AssemblyInfoInputs.cache
+C:\Users\Jed Laptop\Source\Repos\jcdude\InstantRO\IRO.Common\obj\Debug\netcoreapp3.1\IRO.Common.AssemblyInfo.cs
+C:\Users\Jed Laptop\Source\Repos\jcdude\InstantRO\IRO.Common\obj\Debug\netcoreapp3.1\IRO.Common.dll
+C:\Users\Jed Laptop\Source\Repos\jcdude\InstantRO\IRO.Common\obj\Debug\netcoreapp3.1\IRO.Common.pdb

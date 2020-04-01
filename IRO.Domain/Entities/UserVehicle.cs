@@ -1,10 +1,11 @@
-﻿using System;
+﻿using IRO.Domain.Common;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace IRO.Domain.Entities
 {
-    public class UserVehicle
+    public class UserVehicle : AuditableEntity
     {
         public int Id { get; set; }
 

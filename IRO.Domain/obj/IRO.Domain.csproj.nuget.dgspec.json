@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jed\\source\\repos\\InstantRO\\IRO.Domain\\IRO.Domain.csproj": {}
+    "C:\\Users\\Jed Laptop\\Source\\Repos\\jcdude\\InstantRO\\IRO.Domain\\IRO.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jed\\source\\repos\\InstantRO\\IRO.Domain\\IRO.Domain.csproj": {
+    "C:\\Users\\Jed Laptop\\Source\\Repos\\jcdude\\InstantRO\\IRO.Domain\\IRO.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jed\\source\\repos\\InstantRO\\IRO.Domain\\IRO.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Jed Laptop\\Source\\Repos\\jcdude\\InstantRO\\IRO.Domain\\IRO.Domain.csproj",
         "projectName": "IRO.Domain",
-        "projectPath": "C:\\Users\\Jed\\source\\repos\\InstantRO\\IRO.Domain\\IRO.Domain.csproj",
-        "packagesPath": "C:\\Users\\Jed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jed\\source\\repos\\InstantRO\\IRO.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Jed Laptop\\Source\\Repos\\jcdude\\InstantRO\\IRO.Domain\\IRO.Domain.csproj",
+        "packagesPath": "C:\\Users\\Jed Laptop\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jed Laptop\\Source\\Repos\\jcdude\\InstantRO\\IRO.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jed Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

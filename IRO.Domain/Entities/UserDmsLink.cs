@@ -1,10 +1,11 @@
-﻿using System;
+﻿using IRO.Domain.Common;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace IRO.Domain.Entities
 {
-    public class UserDmsLink
+    public class UserDmsLink : AuditableEntity
     {
         public int Id { get; set; }
 

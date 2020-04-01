@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jed\\source\\repos\\InstantRO\\IRO.WebAPi\\IRO.WebAPi.csproj": {}
+    "C:\\Users\\Jed Laptop\\Source\\Repos\\jcdude\\InstantRO\\IRO.WebAPi\\IRO.WebAPi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jed\\source\\repos\\InstantRO\\IRO.WebAPi\\IRO.WebAPi.csproj": {
+    "C:\\Users\\Jed Laptop\\Source\\Repos\\jcdude\\InstantRO\\IRO.WebAPi\\IRO.WebAPi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jed\\source\\repos\\InstantRO\\IRO.WebAPi\\IRO.WebAPi.csproj",
+        "projectUniqueName": "C:\\Users\\Jed Laptop\\Source\\Repos\\jcdude\\InstantRO\\IRO.WebAPi\\IRO.WebAPi.csproj",
         "projectName": "IRO.WebAPi",
-        "projectPath": "C:\\Users\\Jed\\source\\repos\\InstantRO\\IRO.WebAPi\\IRO.WebAPi.csproj",
-        "packagesPath": "C:\\Users\\Jed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jed\\source\\repos\\InstantRO\\IRO.WebAPi\\obj\\",
+        "projectPath": "C:\\Users\\Jed Laptop\\Source\\Repos\\jcdude\\InstantRO\\IRO.WebAPi\\IRO.WebAPi.csproj",
+        "packagesPath": "C:\\Users\\Jed Laptop\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jed Laptop\\Source\\Repos\\jcdude\\InstantRO\\IRO.WebAPi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jed Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
