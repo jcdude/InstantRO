@@ -12,7 +12,7 @@ namespace IRO.Domain.Entities
             UserDmsLinks = new HashSet<UserDmsLink>();
         }
 
-        public int Id { get; set; }
+        public Guid Id { get; set; }
 
         public string FirstName { get; set; }
         public string LastName { get; set; }

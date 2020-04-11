@@ -1,6 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\IRO.Common",
+    "\\IRO.Domain",
+    "\\IRO.Domain\\Common",
+    "\\IRO.Domain\\Entities",
+    "\\IRO.Infrastucture",
+    "\\IRO.Persistence",
+    "\\IRO.Tests",
+    "\\IRO.WebUI"
   ],
+  "SelectedNode": "\\InstantRO.sln",
   "PreviewInSolutionExplorer": false
 }

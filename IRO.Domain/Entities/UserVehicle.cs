@@ -7,7 +7,7 @@ namespace IRO.Domain.Entities
 {
     public class UserVehicle : AuditableEntity
     {
-        public int Id { get; set; }
+        public Guid Id { get; set; }
 
         public int UserId { get; set; }
 
