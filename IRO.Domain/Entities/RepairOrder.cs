@@ -1,0 +1,27 @@
+﻿using IRO.Domain.Common;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace IRO.Domain.Entities
+{
+    public class RepairOrder : AuditableEntity
+    {
+        public RepairOrder()
+        {
+
+        }
+
+        public Guid RepairOrderId { get; set; }
+
+        public Guid UserVehicleId { get; set; }
+
+        public string RepairOrderNumber { get; set; }
+
+        public string ServiceAdvisor { get; set; }
+
+        public UserVehicle UserVehicle { get; set; }
+
+        public IEnumerable<RepairOrderLabor> repairOrderLabor { get; set; }
+    }
+}
