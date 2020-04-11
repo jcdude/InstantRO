@@ -10,6 +10,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\IRO.Application\IRO.Application.csproj" />
+    <ProjectReference Include="..\IRO.Common\IRO.Common.csproj" />
     <ProjectReference Include="..\IRO.Domain\IRO.Domain.csproj" />
   </ItemGroup>
 

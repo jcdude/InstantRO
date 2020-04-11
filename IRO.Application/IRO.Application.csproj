@@ -14,4 +14,8 @@
     <Folder Include="Common\Exceptions\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\IRO.Domain\IRO.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1660,6 +1660,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "IRO.Domain": "1.0.0",
           "Microsoft.AspNetCore.ApiAuthorization.IdentityServer": "3.1.3",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.3"
@@ -1673,6 +1674,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "IRO.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/IRO.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IRO.Domain.dll": {}
+        }
       },
       "IRO.Infrastucture/1.0.0": {
         "type": "project",
@@ -5987,6 +5998,11 @@
       "type": "project",
       "path": "../IRO.Application/IRO.Application.csproj",
       "msbuildProject": "../IRO.Application/IRO.Application.csproj"
+    },
+    "IRO.Domain/1.0.0": {
+      "type": "project",
+      "path": "../IRO.Domain/IRO.Domain.csproj",
+      "msbuildProject": "../IRO.Domain/IRO.Domain.csproj"
     },
     "IRO.Infrastucture/1.0.0": {
       "type": "project",
