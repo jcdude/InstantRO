@@ -9,7 +9,7 @@ namespace IRO.Domain.Entities
     {
         public RepairOrder()
         {
-
+            RepairOrderLabor = new HashSet<RepairOrderLabor>();
         }
 
         public Guid RepairOrderId { get; set; }
@@ -22,6 +22,6 @@ namespace IRO.Domain.Entities
 
         public UserVehicle UserVehicle { get; set; }
 
-        public IEnumerable<RepairOrderLabor> repairOrderLabor { get; set; }
+        public IEnumerable<RepairOrderLabor> RepairOrderLabor { get; set; }
     }
 }
